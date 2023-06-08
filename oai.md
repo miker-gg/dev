@@ -1,0 +1,3 @@
+## My OpenAI key is right there... 
+
+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
